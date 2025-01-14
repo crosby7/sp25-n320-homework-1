@@ -1,4 +1,4 @@
-## Assignment 2: Git Readme
+## Assignment 1: Git Readme
 
 Cameron Crosby\
 14 January 2025
